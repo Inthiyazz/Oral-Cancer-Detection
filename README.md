@@ -98,4 +98,4 @@ The notebook installs and uses:
 
 ## 👨‍💻 Author
 **Inthiyaz**  
-Final‑year B.Tech Computer Science student passionate about backend systems, AI integration, and recruiter‑friendly project deployment.
+B.Tech Computer Science graduate passionate about backend systems, AI integration, and recruiter‑friendly project deployment.
